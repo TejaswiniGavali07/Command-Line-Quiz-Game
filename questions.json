@@ -1,0 +1,178 @@
+[
+    {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "9"
+        ],
+        "answer": "3",
+        "score": 1
+    },
+    {
+        "question": "Which of the following is a Python keyword?",
+        "options": [
+            "function",
+            "define",
+            "def",
+            "lambda"
+        ],
+        "answer": "3",
+        "score": 2
+    },
+    {
+        "question": "What is the output of len('hello')?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "None"
+        ],
+        "answer": "2",
+        "score": 1
+    },
+    {
+        "question": "What data type is the result of: 3 / 2 in Python?",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "2",
+        "score": 2
+    },
+    {
+        "question": "What does the 'append()' method do?",
+        "options": [
+            "Removes item",
+            "Adds item",
+            "Sorts list",
+            "Clears list"
+        ],
+        "answer": "2",
+        "score": 1
+    },
+    {
+        "question": "What is the output of print(3 * 'hi')?",
+        "options": [
+            "hihihi",
+            "hi",
+            "hihi",
+            "h"
+        ],
+        "answer": "1",
+        "score": 1
+    },
+    {
+        "question": "Which of the following is a mutable data type in Python?",
+        "options": [
+            "list",
+            "tuple",
+            "string ",
+            "int"
+        ],
+        "answer": "1",
+        "score": 2
+    },
+    {
+        "question": "What does the len() function do?",
+        "options": [
+            "Calculates the sum of elements",
+            "Converts to integer",
+            "Returns the length of an object",
+            "None of the above"
+        ],
+        "answer": "3",
+        "score": 1
+    },
+    {
+        "question": "Which operator is used for floor division in Python?",
+        "options": [
+            "/",
+            "//",
+            "@",
+            "#"
+        ],
+        "answer": "2",
+        "score": 2
+    },
+    {
+        "question": "What is the purpose of the break statement in Python?",
+        "options": [
+            "Exits the current function",
+            "Skips the current iteration",
+            "Exits the loop entirely",
+            "Pauses the loop"
+        ],
+        "answer": "3",
+        "score": 2
+    },
+    {
+        "question": "Which of the following is not a valid loop in Python?",
+        "options": [
+            "for",
+            "while",
+            "do-while",
+            "none"
+        ],
+        "answer": "3",
+        "score": 2
+    },
+    {
+        "question": "Which of the following is the correct file extension for Python files?",
+        "options": [
+            ".json",
+            ".exe",
+            ".py",
+            ".html"
+        ],
+        "answer": "3",
+        "score": 1
+    },
+    {
+        "question": "What is the purpose of pass in Python?",
+        "options": [
+            "Exits the loop",
+            "Skips an iteration",
+            "Does nothing (placeholder)",
+            "Raises an error"
+        ],
+        "answer": "3",
+        "score": 3
+    },
+    {
+        "question": "What does the range(3) function return?",
+        "options": [
+            "[1, 2, 3]",
+            "[0, 1, 2]",
+            "[0, 1, 2, 3]",
+            "[1,2]"
+        ],
+        "answer": "2",
+        "score": 2
+    },
+    {
+        "question": " Which keyword is used to handle exceptions in Python?",
+        "options": [
+            "try",
+            "catch",
+            "throw",
+            "handle"
+        ],
+        "answer": "1",
+        "score": 2
+    },
+    {
+        "question": "Which of these is not a valid keyword in Python?",
+        "options": [
+            "finally",
+            "assert",
+            "abort",
+            "then"
+        ],
+        "answer": "4",
+        "score": 2
+    }
+]
